@@ -1,0 +1,17 @@
+# dependensi dan hasil build
+node_modules/
+.next/
+out/
+build/
+.netlify/
+
+# rahasia
+.env
+.env*.local
+
+# lain-lain
+.DS_Store
+*.log
+npm-debug.log*
+next-env.d.ts
+*.tsbuildinfo
